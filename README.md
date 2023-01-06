@@ -1,6 +1,6 @@
-##Olá! sou Bruna Almeida 🥰, estudante de desenvolvimento web!
+## Olá! sou Bruna Almeida 🥰, estudante de desenvolvimento web!
 
-
+<div align="center" style="display: inline_block">
 <a href="https://github.com/bruna270498">
   <img  height="150cm" src="https://github-readme-stats.vercel.app/api?username=bruna270498&count_private=true&show_icons=true&theme=radical" />
 </a>
@@ -8,6 +8,7 @@
 <a href="https://github.com/bruna270498">
   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruna270498&layout=compact&theme=radical" />
 </a>
+</div>
 
 ##
 
