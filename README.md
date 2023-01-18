@@ -6,7 +6,8 @@
 </a>
 
 <a href="https://github.com/bruna270498">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bruna270498&langs_count=8&theme=dracula"  />
+     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bruna270498&layout=compact&langs_count=8&theme=dracula"/>
+
 </a>
 </div>
 
