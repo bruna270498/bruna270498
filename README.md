@@ -36,7 +36,7 @@
   <a href="https://www.linkedin.com/in/bruna-almeida-soares/" >
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="bruna-Linkedin" />
   </a>
-  <a href="brunaalmeida075@gmail.com" >
+  <a href="mailto:brunaalmeida075@gmail.com" />
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
