@@ -16,6 +16,8 @@
 
 ##
 
+ <h4 align="center">Linguagens/Framework</h4>
+ 
 <div align="center" style="display: inline_block" >
   <img height="40" width="50" src="https://user-images.githubusercontent.com/74669052/211087011-aeaceb87-67f7-4978-a428-769ed7af68c5.svg" />
  <img height="40" width="50"  src="https://user-images.githubusercontent.com/74669052/211086619-13222ff8-bbd0-451e-9d66-73ba3cc28e3b.svg" />
@@ -30,6 +32,7 @@
 ##
 
 <div align="center" style="display: inline_block" >
+   <h4 align="center"> Contato </h4>
   <a href="https://wa.me/5575983745556">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Bruna-zap" />
   </a>
@@ -40,6 +43,8 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
+
+
 
 
 
