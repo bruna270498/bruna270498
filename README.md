@@ -1,7 +1,6 @@
-<div align="center" style="display: inline_block">
-# Olá! sou Bruna Almeida 🥰
+  # Olá! sou Bruna Almeida 🥰
 ## Desenvolvedora front-end!
-</div>
+
 <div align="center" style="display: inline_block">
 <a href="https://github.com/bruna270498">
    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bruna270498&cons=true&theme=dracula&include_all_commits=true&count_private=true"/>
