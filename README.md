@@ -21,6 +21,7 @@
  
 <div align="center" style="display: inline_block" >
   <img height="40" width="50" src="https://user-images.githubusercontent.com/74669052/211087011-aeaceb87-67f7-4978-a428-769ed7af68c5.svg" />
+  <img height="40" width="50" scr='https://github.com/bruna270498/bruna270498/assets/74669052/e8725fd4-60ae-4cfd-b5d3-3d3b9f8945e3'/>
  <img height="40" width="50"  src="https://user-images.githubusercontent.com/74669052/211086619-13222ff8-bbd0-451e-9d66-73ba3cc28e3b.svg" />
  <img height="40" width="50" src="https://user-images.githubusercontent.com/74669052/211088723-2ff553ca-a80f-4beb-8f05-1413d8a57807.svg" />
  <img height="40" width="50" src="https://user-images.githubusercontent.com/74669052/211087772-448ba331-0d6b-4e26-a6ec-be37fec3332f.svg" />
