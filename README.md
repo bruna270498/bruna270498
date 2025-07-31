@@ -1,5 +1,5 @@
   # Olá! sou Bruna Almeida 🥰
-## Desenvolvedora full stack!
+## Quality assurance | Analista de Testes!
 
 <div align="center" style="display: inline_block">
 <a href="https://github.com/bruna270498">
