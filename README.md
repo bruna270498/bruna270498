@@ -12,25 +12,92 @@
 </a>
 </div>
 
-
-
-
 ##
 
- <h4 align="center">Linguagens/Framework</h4>
- 
-<div align="center" style="display: inline_block" >
-  <img height="40" width="50" src="https://user-images.githubusercontent.com/74669052/211087011-aeaceb87-67f7-4978-a428-769ed7af68c5.svg" />
- <img height="40" width="50"  src="https://user-images.githubusercontent.com/74669052/211086619-13222ff8-bbd0-451e-9d66-73ba3cc28e3b.svg" />
- <img height="40" width="50" src="https://user-images.githubusercontent.com/74669052/211088723-2ff553ca-a80f-4beb-8f05-1413d8a57807.svg" />
- <img height="40" width="50" src="https://user-images.githubusercontent.com/74669052/211087772-448ba331-0d6b-4e26-a6ec-be37fec3332f.svg" />
- <img height="40" width="50" src="https://user-images.githubusercontent.com/74669052/211087975-24a37e4c-1cdf-40ff-9cfd-8f9f9b3a2132.svg" />
- <img height="40" width="50" src="https://user-images.githubusercontent.com/74669052/211089039-1f397136-06da-4828-b603-d879393d183e.svg" />
- <img height="40" width="50" src="https://user-images.githubusercontent.com/74669052/211087562-2326bd42-e98b-496c-9234-ec68b17ce7c5.svg" />
- <img height="40" width="50" src="https://user-images.githubusercontent.com/74669052/211088206-0c4a5ccc-58c3-4add-8fb4-41fa12bbfaf6.svg" />
+<h4 align="center">Linguagens</h4>
+
+<div align="center" style="display: inline_block">
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
 </div>
 
 ##
+
+<h4 align="center">Frameworks de Teste</h4>
+
+<div align="center" style="display: inline_block">
+  <img height="40" width="50" src="https://junit.org/junit5/assets/img/junit5-logo.png" title="JUnit" />
+  <img height="40" width="50" src="https://github.com/user-attachments/assets/6c5e8009-9f43-4cab-96fb-f0283e9debee" title="TestNG" />
+  <img height="40" width="50" src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" title="Cypress" />
+  <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" title="Selenium" />
+  <img height="40" width="50" src="https://github.com/user-attachments/assets/ab298465-a3d6-4186-a757-ad8eb6faf018" title="REST Assured" />
+
+</div>
+
+##
+
+<h4 align="center">Backend & Banco de Dados</h4>
+
+<div align="center" style="display: inline_block">
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js"/>
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>
+</div>
+
+##
+
+<h4 align="center">Ferramentas</h4>
+
+<div align="center" style="display: inline_block">
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker"/>
+</div>
+
+##
+
+<h4 align="center">CI/CD & Integração de Testes</h4>
+
+<div align="center" style="display: inline_block">
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" title="GitLab CI/CD"/>
+  <img height="40" width="50" src="https://github.com/user-attachments/assets/c70adb15-8cdd-4bfa-9035-d79689086ca9" title="Allure Report"/>
+
+</div>
+
+##
+
+<h4 align="center">Ferramentas de QA e Colaboração</h4>
+
+<div align="center" style="display: inline_block">
+  <!-- Postman -->
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" title="Postman" />
+  
+  <!-- Jira -->
+  <img height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" title="Jira" />
+
+  <!-- Confluence -->
+  <img height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/confluence-1.svg" title="Confluence" />
+
+  <!-- Zephyr (como não tem logo oficial open-source, usamos Atlassian Genérico) -->
+  <img height="40" width="50" src="https://github.com/user-attachments/assets/f51d7904-f31d-41e1-82f5-17b479a71f04" title="Zephyr (Atlassian)" />
+
+
+  <!-- SonarQube -->
+  <img height="40" width="50"  src="https://github.com/user-attachments/assets/62271436-ae6a-484c-b804-81f508aee03d"  title="SonarQube"/>
+
+</div>
+
+##
+
+<h4 align="center">Metodologias Ágeis</h4>
+
+<div align="center" style="display: inline_block">
+  <img height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/5969/5969020.png" title="Scrum" />
+  <img height="40" width="50" src="https://cdn-icons-png.flaticon.com/512/857/857681.png" title="Kanban" />
+</div>
+
+##
+
+
 
 <div align="center" style="display: inline_block" >
    <h4 align="center"> Contato </h4>
