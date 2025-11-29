@@ -20,6 +20,8 @@
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java"/>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript"/>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript"/>
+  <img height="40" width="50" alt="image" src="https://github.com/user-attachments/assets/6ddb7cda-8319-4256-9b84-e8c44fb6af78" />
+
 </div>
 
 ##
@@ -28,10 +30,13 @@
 
 <div align="center" style="display: inline_block">
   <img height="40" width="50" src="https://junit.org/junit5/assets/img/junit5-logo.png" title="JUnit" />
-  <img height="40" width="50" src="https://github.com/user-attachments/assets/6c5e8009-9f43-4cab-96fb-f0283e9debee" title="TestNG" />
+  <img height="40" width="50" alt="image" src="https://github.com/user-attachments/assets/c49a2ebc-7283-4189-8351-5ee761b3344b" title="Appium" />
   <img height="40" width="50" src="https://avatars.githubusercontent.com/u/8908513?s=280&v=4" title="Cypress" />
   <img height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" title="Selenium" />
   <img height="40" width="50" src="https://github.com/user-attachments/assets/ab298465-a3d6-4186-a757-ad8eb6faf018" title="REST Assured" />
+  <img height="40" width="50 alt="image" src="https://github.com/user-attachments/assets/960c68cd-a8f2-4ae1-b0b6-dd1b998a60bf" title="Cucumber"/>
+  <img height="40" width="50" src="https://github.com/user-attachments/assets/6c5e8009-9f43-4cab-96fb-f0283e9debee" title="TestNG" />
+  <img height="50" width="50" alt="image" src="https://github.com/user-attachments/assets/429336ab-88cc-4abe-a455-540d3b1ae690" title="Jmeter"/>
 
 </div>
 
@@ -43,6 +48,11 @@
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js"/>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express.js"/>
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL"/>
+  <img height="40" width="50" alt="image" src="https://github.com/user-attachments/assets/e572c70a-526f-4f16-819f-85225c8659e2" title="Spring Boot"/>
+  <img width="90" height="256" alt="image" src="https://github.com/user-attachments/assets/6ba19f15-8fc2-43c3-a242-3e8f38f789a9" title="Oracle" />
+
+
+
 </div>
 
 ##
