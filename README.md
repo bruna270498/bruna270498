@@ -1,4 +1,7 @@
   # Olá! sou Bruna Almeida 🥰
+apaixonada por tecnologia e atualmente focada em Qualidade de Software. Trabalho com testes automatizados para API, Web e Mobile utilizando ferramentas como Rest Assured, Cypress, Selenium, Appium e TestNG.
+Também estou estudando integração de IA para otimizar processos de QA e melhorar a eficiência dos testes.
+Sigo aprendendo todos os dias e evoluindo minhas habilidades na área.
 ## Quality assurance | Analista de Testes!
 
 <div align="center" style="display: inline_block">
