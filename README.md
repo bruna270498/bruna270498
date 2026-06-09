@@ -1,18 +1,16 @@
-<img align="right" width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVheHlucTMxNHAxc3Mzd3JwOHdvaHVuODdqbzF2N2IybWFiN28weSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3sDaYbHuv8ypgZCcjG/giphy.gif">
-[GIF Tech](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVheHlucTMxNHAxc3Mzd3JwOHdvaHVuODdqbzF2N2IybWFiN28weSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3sDaYbHuv8ypgZCcjG/giphy.gif)
-<div align="center">
+<div align="left">
+<img width="200" align="left" alt="QA Engineer" src="https://github.com/user-attachments/assets/886195b8-26b5-4135-8378-da703eaeec17" />
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWVheHlucTMxNHAxc3Mzd3JwOHdvaHVuODdqbzF2N2IybWFiN28weSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3sDaYbHuv8ypgZCcjG/giphy.gif" width="100%"/>
+# Bruna Almeida Soares
+ ### QA Engineer | Test Automation | AI Testing
 
-# Bruna Almeida
-
-### QA Engineer | Test Automation | AI Testing
+<br> 
 
 *"Qualidade não é encontrar defeitos. É construir confiança em cada entrega."*
 
 </div>
+<br>
 
----
 
 ## 👩‍💻 Sobre mim
 
