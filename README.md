@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 <img width="200" align="left" alt="QA Engineer" src="https://github.com/user-attachments/assets/886195b8-26b5-4135-8378-da703eaeec17" />
 
 # Bruna Almeida Soares
